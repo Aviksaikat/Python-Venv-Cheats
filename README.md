@@ -230,5 +230,5 @@ Copy and paste this function to your `~/.bashrc` or `~/.zshrc` file and restart 
 | Tool    | Link                                    |
 |---------|--------------------------------------------|
 | pdm     | [swarm-bee-py](https://github.com/alienrobotninja/bee-py/blob/main/pyproject.toml) |
-| hatch   | [bmt_py](https://github.com/alienrobotninja/bee-py/blob/main/pyproject.toml)                     |
+| hatch   | [bmt-py](https://github.com/Aviksaikat/bmt-py/blob/main/pyproject.toml)                     |
 | poetry  | [Delegation](https://github.com/Aviksaikat/ApeWorX-work/blob/main/CTFs/Ethernaut/Delegation_DONE/pyproject.toml)                    |
